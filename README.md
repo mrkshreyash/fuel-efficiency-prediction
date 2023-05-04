@@ -1,4 +1,4 @@
-# fuel-efficiency-prediction
+# Fuel Efficiency Prediction
 By inserting cars features you can predict how many KM or MILES the car can go per LITRE or GALLON respectively.
 
 <br><hr>
