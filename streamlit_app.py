@@ -2,7 +2,6 @@
 
 from logging import exception
 import time
-from tkinter import E
 from typing import Container
 from urllib import request
 import numpy as np
