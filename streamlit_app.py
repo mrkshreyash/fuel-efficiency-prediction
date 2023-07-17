@@ -2,9 +2,6 @@
 
 from logging import exception
 import time
-from typing import Container
-from urllib import request
-import numpy as np
 import pickle
 import streamlit as st
 import os
@@ -61,7 +58,7 @@ def main():
             
 
 
-            st.subheader("This project is for to predict the efficiency of a car using their features.")
+            st.subheader("This project is for to predict the efficiency of a car using their features.".upper())
             st.markdown("""
                 \n\n **How to Calculate efficiency???**
                 """)
