@@ -1,6 +1,5 @@
 # import pickle
 
-from logging import exception
 import time
 import pickle
 import streamlit as st
